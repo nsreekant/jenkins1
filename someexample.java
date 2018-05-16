@@ -17,6 +17,8 @@ public class someexample{
 	
 	str1 = scan.next();
 	
+	System.out.println("String value is " + str1);
+	
 		for(int j=0;j<str1.length();j++){
 			//if (str1.charAt(j)=MY_CONST){
 			//	if ((MY_CONST).equals(str1.charAt(j))){			// comparing a String object
