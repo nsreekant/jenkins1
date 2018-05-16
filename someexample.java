@@ -29,6 +29,6 @@ public class someexample{
 				counter=++counter;
 				}
 		}
-		System.out.println("Count of the " + abc.MY_CONST +  " is that :" + counter);
+		System.out.println("Count of the " + abc.MY_CONST +  " is that :" + counter)
 	}
 }
