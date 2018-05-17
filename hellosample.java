@@ -6,5 +6,6 @@ public class hellosample
 		{
 			System.out.println("Hello Sample " + i);
 		}
+		System.out.println("Hello Sample Successful");
 	}
 }
